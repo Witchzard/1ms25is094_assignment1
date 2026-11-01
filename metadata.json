@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper AI Agent",
+  "description": "An intelligent academic research assistant helping students understand, analyse, summarise research papers, extract key findings, and uncover research gaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
